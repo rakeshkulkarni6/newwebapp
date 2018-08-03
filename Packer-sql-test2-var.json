@@ -1,0 +1,10 @@
+{
+    "client_id":"1a7be068-802a-4e13-8abe-fcdc093c01ac",
+    "tenant_id":"98fa0d5c-afdd-473a-aa5a-16b249dcfe21",
+    "subscription_id":"ae5b4297-9f39-479d-8c3a-cbce714e7089",
+    "managed_image_resource_group_name":"rg-test-packer",
+    "managed_image_name":"SQL-image",
+    "image_publisher":"MicrosoftSQLServer",
+    "image_offer":"SQL2016SP1-WS2016",
+    "image_sku":"Standard"
+}
